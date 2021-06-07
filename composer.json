@@ -1,8 +1,8 @@
 {
-    "name": "biscolab/google-maps-php-sdk",
+    "name": "adbros/google-maps-php-sdk",
     "description": "Google Maps PHP SDK.",
     "license": "MIT",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "keywords": [
         "google",
         "maps",
