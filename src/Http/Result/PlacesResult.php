@@ -133,6 +133,12 @@ class PlacesResult extends GoogleMapsResult
 	 */
 	protected $adr_address = '';
 
+
+	/**
+	 * @var float
+	 */
+	protected $rating = 0;
+
 	/**
 	 * @var array
 	 */
