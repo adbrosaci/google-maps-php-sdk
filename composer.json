@@ -2,7 +2,7 @@
     "name": "adbros/google-maps-php-sdk",
     "description": "Google Maps PHP SDK.",
     "license": "MIT",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "keywords": [
         "google",
         "maps",
@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.1.1",
-        "guzzlehttp/guzzle": "5.*|6.*"
+        "guzzlehttp/guzzle": "5.*|6.*|7.*"
     },
     "require-dev": {
         "ext-curl": "*",
